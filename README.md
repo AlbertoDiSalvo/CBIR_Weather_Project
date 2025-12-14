@@ -32,6 +32,3 @@ codigo.ipynb: Notebook con el pipeline de extracción, indexación y evaluación
 CBIR.pdf: Memoria técnica detallada del proyecto.
 
 faiss_index_*.bin: Índices vectoriales pre-calculados.
-
-## Resultados
-El modelo combinado (CNN+HSV+LBP) alcanzó una precisión (Precision@5) del XX%, destacando en clases como "Arcoíris" y "Tormenta de Arena".

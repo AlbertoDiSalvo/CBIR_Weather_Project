@@ -29,6 +29,6 @@ app.py: Interfaz de usuario (Streamlit).
 
 codigo.ipynb: Notebook con el pipeline de extracción, indexación y evaluación.
 
-CBIR.pdf: Memoria técnica detallada del proyecto.
+memoria.pdf: Memoria técnica detallada del proyecto.
 
 faiss_index_*.bin: Índices vectoriales pre-calculados.

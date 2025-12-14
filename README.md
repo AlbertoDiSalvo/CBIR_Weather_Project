@@ -23,3 +23,15 @@ Este proyecto implementa un sistema de Recuperación de Imágenes Basado en Cont
     streamlit run app.py
 
 4. (Opcional) Regenerar índices: Ejecutar el notebook codigo.ipynb para re-entrenar o generar nuevos índices.
+
+## Estructura del Proyecto
+app.py: Interfaz de usuario (Streamlit).
+
+codigo.ipynb: Notebook con el pipeline de extracción, indexación y evaluación.
+
+CBIR.pdf: Memoria técnica detallada del proyecto.
+
+faiss_index_*.bin: Índices vectoriales pre-calculados.
+
+## Resultados
+El modelo combinado (CNN+HSV+LBP) alcanzó una precisión (Precision@5) del XX%, destacando en clases como "Arcoíris" y "Tormenta de Arena".

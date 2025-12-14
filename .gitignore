@@ -1,0 +1,10 @@
+# Archivos de sistema y entorno
+__pycache__/
+.venv/
+.env
+.DS_Store
+
+# Archivos temporales de notebooks
+.ipynb_checkpoints/
+
+# weather/

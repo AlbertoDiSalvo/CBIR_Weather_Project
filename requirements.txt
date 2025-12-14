@@ -1,0 +1,12 @@
+numpy<2.0
+opencv-python
+tensorflow
+tqdm
+scikit-image
+faiss-cpu
+matplotlib
+seaborn
+scikit-learn
+pandas
+streamlit
+ipykernel
